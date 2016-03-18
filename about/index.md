@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 关于飞出国，about flyabroad
+about: true
 ---
 
 <div class="note info">

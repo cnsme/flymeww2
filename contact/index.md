@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 飞出国联系方式
+contact: true
 ---
 
 <p><strong>飞出国联系方式（提交在线评估后可以提供电话沟通）：</strong></p>
