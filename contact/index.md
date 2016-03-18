@@ -4,9 +4,9 @@ title: 飞出国联系方式
 contact: true
 ---
 
-<p><strong>飞出国联系方式（提交在线评估后可以提供电话沟通）：</strong></p>
+<p>飞出国基本不使用qq，没有提交在线评估前更不会主动 qq，微信或电话联系。</p>
 
-<p>有问题需要咨询建议您填写详细的<a href="http://pg.flyabroadvisa.com" target="_blank">免费评估</a>。 </p>
+<p>有问题需要咨询建议您填写详细的<a href="http://pg.flyabroadvisa.com" target="_blank">免费评估</a>，提交后会分配论坛免费会员权限，提供email咨询，也可以预约电话或面谈。提交<a href="http://pg.flyabroadvisa.com" target="_blank">在线评估</a>是您也飞出国直接沟通的第一步。</p>
 
 <div class="mobile-side-scroller">
 <table>
