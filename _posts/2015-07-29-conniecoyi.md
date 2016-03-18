@@ -1,7 +1,7 @@
 ---
 layout: news_item
 title: '9个月顺利拿到澳洲190签证，给飞出国赞一个！'
-date: 2015-11-17 09:43:00 +0800
+date: 2015-07-29 09:43:00 +0800
 author: conniecoyi
 categories: [say]
 bbsid: 6016

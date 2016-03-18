@@ -1,7 +1,7 @@
 ---
 layout: news_item
 title: '2013年9月30日 granted，我也来感谢一下fly'
-date: 2015-11-17 09:27:00 +0800
+date: 2013-10-05 09:27:00 +0800
 author: suyinsarah
 categories: [say]
 bbsid: 2326
@@ -20,5 +20,3 @@ suyinsarah 于: 2013-10-05, 14:04:42
 总结一下我的fly的感受，职业评估阶段：文字材料准备专业100分；州担保&visa阶段：备料细致、高效；花钱找fly做技术移民，一个字：值。
 
 再次感谢05号客服annie和老板fly！～
-
-

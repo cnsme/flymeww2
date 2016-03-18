@@ -1,7 +1,7 @@
 ---
 layout: news_item
 title: '感谢Fly, 雅思6分移民悉尼'
-date: 2015-11-17 09:26:00 +0800
+date: 2013-08-10 09:26:00 +0800
 author: littlepig123
 categories: [say]
 bbsid: 2327
@@ -42,5 +42,3 @@ littlepig123 于: 2013-08-10, 19:19:16
 祝大家梦想成真！祝Fly事业红火（但也别累坏了身体）！
 
 谢谢Fly，也谢谢Annie！
-
-
