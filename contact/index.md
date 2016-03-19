@@ -12,7 +12,7 @@ contact: true
 <table>
 
 <tr>
-<td><p><b>飞出国微信公众号</b>：flyabroad111</p></td>
+<td><p>飞出国微信<strong><u>公众号</u></strong>：flyabroad111</p></td>
 <td><p><a href="http://weibo.com/flyabroad" target="_blank" ><strong>@飞出国</strong></a>新浪微博</p></td>
 </tr>
 <tr>
@@ -21,8 +21,8 @@ contact: true
 </tr>
 
 <tr>
-<td><p><strong>飞出国论坛微信号</strong>：fcgvisabbs</td>
-<td><p><strong>飞出国论坛微信号公众号（进度发布）</strong>：fcgvisa</p></td>
+<td><p>飞出国论坛<strong><u>微信号</u></strong>：fcgvisabbs</td>
+<td><p>飞出国论坛微信号<strong>公众号</strong>：fcgvisa</p></td>
 </tr>
 <tr>
 <td><p><img src="http://kit.flyabroadvisa.com/wxfcg/fcg15.jpg" width="180" height="180" border="0" alt="飞出国论坛微信号 - fcgvisabbs"></p></td>
@@ -31,3 +31,5 @@ contact: true
 
 </table>
 </div>
+
+<div>具体事宜也可以发邮件 contact@flyabroadvisa.com 。</div>
