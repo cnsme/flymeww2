@@ -32,4 +32,4 @@ contact: true
 </table>
 </div>
 
-<div>具体事宜也可以发邮件 contact@flyabroadvisa.com 。</div>
+<div>具体事宜也可以发邮件 contact@flyabroadvisa.com 。也可以[论坛发帖](http://bbs.fcgvisa.com)。</div>
