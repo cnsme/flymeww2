@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: '感谢飞出国的细致工作！'
+title: '迟来的经验分享+感谢信！'
 date: 2016-05-24 08:00:00 +0800
 author: yunluorenjian
 categories: [say]
