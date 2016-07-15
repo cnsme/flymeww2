@@ -1,6 +1,6 @@
 ---
 layout: news_item
-title: 'csq了，幸好有fly'
+title: 'csq了，幸好有fly，专业的事情，交给专业的FLY来做，是明智的选择！'
 date: 2015-11-13 12:00:00 +0800
 author: HERO1
 categories: [say]
@@ -28,3 +28,5 @@ bbsid: 8598
 衷心感谢FLY！感谢周江！感谢高华！
 
 也愿我接下来的申请之路一切顺利！
+
+csq了，幸好有fly HERO1 [http://bbs.fcgvisa.com/t/csq-fly/8598](http://bbs.fcgvisa.com/t/csq-fly/8598)。
