@@ -1,7 +1,7 @@
 ---
 layout: news_item
 title: '与fly的信任就在那一瞬间建立了，只能说缘分吧！'
-date: 2016-08-25 11:00:00 +0800
+date: 2016-08-25 09:00:00 +0800
 author: garyliang
 categories: [say]
 bbsid: 18517
