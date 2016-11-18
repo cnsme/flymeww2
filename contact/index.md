@@ -13,7 +13,7 @@ contact: true
 - 提交<a href="http://pg.flyabroadvisa.com" target="_blank">在线评估</a>，评估可行性并给出基本建议。
 - email，微信，电话或面谈，确定申请方向及申请方式：
   - 打算签约提交<a href="http://lvshi.flyabroadvisa.com/" target="_blank">在线签约申请</a>。
-  - 打算加入<a href="http://bbs.fcgvisa.com/t/topic/9611" target="_blank">付费会员</a>提交<a href="http://member.flyabroadvisa.com/" target="_blank">在线会员申请</a>。 
+  - 打算加入<a href="http://bbs.fcgvisa.com/t/topic/9611" target="_blank">付费会员</a>提交<a href="http://member.flyabroadvisa.com/" target="_blank">在线会员申请</a>（需提交<a href="http://pg.flyabroadvisa.com" target="_blank">在线评估</a>才有权限查看）。 
 - 准备<a href="http://bbs.fcgvisa.com/t/topic/1751" target="_blank">相关资料扫描件</a>及<a href="http://www.flyabroadvisa.com/dl/info/INFO-skilled-FLYabroad.zip" target="_blank">飞出国信息表格</a>。
 
 提交<a href="http://pg.flyabroadvisa.com" target="_blank">在线评估</a>后可以使用email或微信沟通相关事宜。
@@ -42,4 +42,4 @@ contact: true
 </table>
 </div>
 
-<div>具体事宜也可以发邮件 contact@flyabroadvisa.com 。也可以<a href="http://bbs.fcgvisa.com" target="_blank">论坛发帖</a>。</div>
+共性问题也可以<a href="http://bbs.fcgvisa.com" target="_blank">飞出国论坛发帖询问</a>。
