@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 _site/
 *.swp
 pkg/
 test/
-=======
 # Logs
 logs
 *.log
@@ -37,5 +35,3 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
->>>>>>> 8ffcd6346ea2a28baa4943a7b9ca3fdc71432b6f
-/CNAME
