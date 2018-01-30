@@ -28,7 +28,7 @@ contact: true
 <table>
 
 <tr>
-<td><p>飞出国咨询<strong><u>投诉号</u></strong></td>
+<td><p>飞出国咨询<strong><u>投诉号</u></strong></p></td>
 <td><p><a href="http://weibo.com/flyabroad" target="_blank" ><strong>@飞出国</strong></a>新浪微博</p></td>
 </tr>
 <tr>
