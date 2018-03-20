@@ -4,7 +4,9 @@ title: 飞出国联系方式
 contact: true
 ---
 
-为了给出系统，全面，准确建议，咨询前请填写免费<a href="http://pg.flyabroad.hkme" target="_blank">在线评估</a>，随后可以邮件，微信，电话或面谈。
+为了给出系统，全面，准确建议，咨询前请填写免费<a href="http://pg.flyabroad.hk" target="_blank">在线评估</a>，随后可以邮件，微信，电话或面谈。
+
+没有提交在线评估的建议采用论坛咨询，详细咨询前提交在线评估的必要性及提交系统评估后获得的好处请参考飞出国论坛介绍： <a href="http://bbs.fcgvisa.com/t/topic/6216" target="_blank">http://bbs.fcgvisa.com/t/topic/6216</a> 。
 
 需要联系飞出国请您填写<a href="http://pg.flyabroad.hk" target="_blank">免费在线评估（电脑版及手机横版）</a>，提交后飞出国会给您分配论坛免费会员权限，提供email评估结果，也可以预约电话（微信）或面谈。
 
@@ -12,7 +14,7 @@ contact: true
 
 ### 与飞出国合作流程
 
-- 提交<a href="http://pg.flyabroad.me" target="_blank">在线评估</a>，评估可行性并给出基本建议。
+- 提交<a href="http://pg.flyabroad.hk" target="_blank">在线评估</a>，评估可行性并给出基本建议。
 - email，微信，电话或面谈，确定申请方向及申请方式：
   - 打算签约提交<a href="http://sign.flyabroadvisa.com/" target="_blank">在线签约申请</a>。
   - 打算加入<a href="http://bbs.fcgvisa.com/t/topic/9611" target="_blank">付费会员</a>提交<a href="http://member.flyabroadvisa.com/" target="_blank">在线会员申请</a>（需提交<a href="http://pg.flyabroad.hk" target="_blank">在线评估</a>才有权限查看）。 
