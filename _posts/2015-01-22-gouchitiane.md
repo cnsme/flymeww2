@@ -43,4 +43,4 @@ gouchitiane 于: 2015-01-22, 22:21:46
 
 特别在此感谢ANNIE，真正让我感激FLY的是ANNIE这些资深的移民顾问以及他们后面支持的团队，真正的把我的事情当成了他们自己的事情，非常着急的为我考虑和申请。让我非常感动，其中的一些过程就不在这里多描述了，但是我决定在我走之前，一定要去FLY的总部好好得感谢些这个企业所有的人员，非常的专业和职业化，并能让客户感到深深的情感！
 
-感谢FLY！感谢你们！ [http://bbs.fcgvisa.com/t/topic/2315/](http://bbs.fcgvisa.com/t/topic/2315/)。
+感谢FLY！感谢你们！ [https://bbs.fcgvisa.com/t/topic/2315/](https://bbs.fcgvisa.com/t/topic/2315/)。

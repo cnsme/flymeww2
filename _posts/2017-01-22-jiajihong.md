@@ -115,4 +115,4 @@ bbsid: 21305
 
 最后，**再次感谢飞出国，让我们能圆梦澳洲，圆梦加国！**
 
-我的澳洲维州190和加国萨省下签过程------好事成双，写在猴年的尾巴上  jiajihong [http://bbs.fcgvisa.com/t/topic/21305](http://bbs.fcgvisa.com/t/topic/21305)。
+我的澳洲维州190和加国萨省下签过程------好事成双，写在猴年的尾巴上  jiajihong [https://bbs.fcgvisa.com/t/topic/21305](https://bbs.fcgvisa.com/t/topic/21305)。

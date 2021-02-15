@@ -36,4 +36,4 @@ bbsid: 28933
 
 移民的整个过程总体感觉，专业的选择非常重要，国外技师需求多，而我们首选的工程师是导致第一次申请联邦失败的直接原因。第二次申请的萨省提名感觉主要卡在了将近一年半的安调上，现在想来，和公司名字里有移动通信可能有关。这个过程除了焦急的等待别无他选。好在始终是对结果有一定的信心。4年的道路中无数次的兴奋，激动，也无数次的焦急和期待。等到最后终于拿到大信封的那一刻，其实没有什么兴奋的感觉了。无论如何，终于有了结果，此刻重要的是收拾心情，开始计划人生新的旅途。那对于我们来说将会是充满挑战和希望的美好征途。。。
 
-EE - Ontario - HCP Stream 感谢飞出国  GeorgeWang  [http://bbs.fcgvisa.com/t/topic/28933](http://bbs.fcgvisa.com/t/topic/28933) 。
+EE - Ontario - HCP Stream 感谢飞出国  GeorgeWang  [https://bbs.fcgvisa.com/t/topic/28933](https://bbs.fcgvisa.com/t/topic/28933) 。

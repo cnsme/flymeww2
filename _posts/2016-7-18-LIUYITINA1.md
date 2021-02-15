@@ -29,4 +29,4 @@ bbsid: 17198
 
 感谢整整5年来，FLYABROAD 的帮助和耐心细致的工作。发过去的邮件总是能在第一时间得到回复，5年一路上的陪伴千言万语唯有感谢。
 
-我漫长的魁北克技术移民历程回顾 LIUYITINA1 [http://bbs.fcgvisa.com/t/topic/17198](http://bbs.fcgvisa.com/t/topic/17198)
+我漫长的魁北克技术移民历程回顾 LIUYITINA1 [https://bbs.fcgvisa.com/t/topic/17198](https://bbs.fcgvisa.com/t/topic/17198)

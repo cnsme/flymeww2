@@ -61,4 +61,4 @@ bbsid: 18517
 
 感谢飞出国，感谢张小姐，感谢晓云！
 
-Ppr感谢飞出国,圆梦加拿大 garyliang [http://bbs.fcgvisa.com/t/ppr/18517](http://bbs.fcgvisa.com/t/ppr/18517) 。
+Ppr感谢飞出国,圆梦加拿大 garyliang [https://bbs.fcgvisa.com/t/ppr/18517](https://bbs.fcgvisa.com/t/ppr/18517) 。

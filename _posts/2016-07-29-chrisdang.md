@@ -29,4 +29,4 @@ bbsid: 17761
 
 **如果有朋友要移民或留学，我想FLY将是最佳的选择！**
 
-感谢fly，为我的十年移民路划上了圆满的句号 [http://bbs.fcgvisa.com/t/fly/17761](http://bbs.fcgvisa.com/t/fly/17761) 。
+感谢fly，为我的十年移民路划上了圆满的句号 [https://bbs.fcgvisa.com/t/fly/17761](https://bbs.fcgvisa.com/t/fly/17761) 。

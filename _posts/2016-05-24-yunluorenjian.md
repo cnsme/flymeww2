@@ -33,4 +33,4 @@ bbsid: 15316
 
 以后再有朋友移民，还会介绍给fly！也希望你们越办越好，帮助更多的人！
 
-[飞出国论坛 - 迟来的经验分享+感谢信 yunluorenjian。](http://bbs.fcgvisa.com/t/topic/15316)
+[飞出国论坛 - 迟来的经验分享+感谢信 yunluorenjian。](https://bbs.fcgvisa.com/t/topic/15316)

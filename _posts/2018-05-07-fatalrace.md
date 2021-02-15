@@ -59,4 +59,4 @@ bbsid: 27348
 
 最后我和家人一致认为在移民这件事情上，专业的指导是必不可少的，有效减少了由于个人试错导致的时间以及金钱的损失，最重要的一点是，在目前各国移民政策变动非常大的大环境下，把握住当下的机会，成功拿到签证是最重要的，也是飞出国和申请人共同的愿望。
 
-感谢飞出国，历时 六个半月成功收到PPR fatalrace [http://bbs.fcgvisa.com/t/topic/27348](http://bbs.fcgvisa.com/t/topic/27348) 。
+感谢飞出国，历时 六个半月成功收到PPR fatalrace [https://bbs.fcgvisa.com/t/topic/27348](https://bbs.fcgvisa.com/t/topic/27348) 。

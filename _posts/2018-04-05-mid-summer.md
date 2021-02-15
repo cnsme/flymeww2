@@ -46,4 +46,4 @@ Auckland 1010, New Zealand
 
 每本护照NZD$68.9，所有申请人护照需要一起递送不能分开。需要注意的是签证处只收现金，多备零钱，他们可能无法找零。签证处四点发出当天所有申请，不想耽误一天的务必早到。带好护照、签证照片（一定要告知是加拿大pr照片跟ee提交的不一样）、ppr邮件。每一份护照一个追踪号自动连接cic账号，不需要到vfs上查询状态。一个月左右cic账号显示approved，四天以后签证处打电话通知取回护照。从送到VFS Auckland到收到大信封总共1个月上下吧，过程比较焦急，但是各位小伙伴耐心等待吧。
 
-写在临行前——还好有你飞出国 mid-summer [http://bbs.fcgvisa.com/t/topic/26992](http://bbs.fcgvisa.com/t/topic/26992)。
+写在临行前——还好有你飞出国 mid-summer [https://bbs.fcgvisa.com/t/topic/26992](https://bbs.fcgvisa.com/t/topic/26992)。

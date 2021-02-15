@@ -19,4 +19,4 @@ bbsid: 13607
 
 谢谢飞出国的帮助！祝你们越办越好，帮助更多的家庭实现移民的梦想！
 
-[willvivian 感谢飞出国的细致工作。](http://bbs.fcgvisa.com/t/topic/13607)
+[willvivian 感谢飞出国的细致工作。](https://bbs.fcgvisa.com/t/topic/13607)

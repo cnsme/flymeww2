@@ -79,4 +79,4 @@ bbsid: 28802
 
 正如之前有帖子所说，加拿大技术移民理论上来说，完全可以自己一手操办，前提是对政策拿捏得很准，非常贴近市场。有了飞出国的专业指导，让这条路走得更顺畅。
 
-EE - Ontario - HCP Stream 感谢飞出国  NataliaYe  [http://bbs.fcgvisa.com/t/topic/28802](http://bbs.fcgvisa.com/t/topic/28802) 。
+EE - Ontario - HCP Stream 感谢飞出国  NataliaYe  [https://bbs.fcgvisa.com/t/topic/28802](https://bbs.fcgvisa.com/t/topic/28802) 。

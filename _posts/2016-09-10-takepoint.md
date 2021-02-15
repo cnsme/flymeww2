@@ -75,4 +75,4 @@ bbsid: 18844
 
 从论坛上看到一句话：如果你知道自己要去哪儿，全世界都会为你让路。这段经历让我对此深信不疑！面对今后新生活的挑战，应该同样如此吧。
 
-感谢fly，历时5个月190准签 takepoint [http://bbs.fcgvisa.com/t/fly-5-190/18844](http://bbs.fcgvisa.com/t/fly-5-190/18844)。
+感谢fly，历时5个月190准签 takepoint [https://bbs.fcgvisa.com/t/fly-5-190/18844](https://bbs.fcgvisa.com/t/fly-5-190/18844)。

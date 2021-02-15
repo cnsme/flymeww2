@@ -75,4 +75,4 @@ bbsid: 25025
 
 马上我就要短登了，魁北克我写了撤案信过去，然后石沉大海没有回信。
 
-萨省还是好项目 - 加拿大魁北克和萨省的申请经历 [http://bbs.fcgvisa.com/t/topic/25025](http://bbs.fcgvisa.com/t/topic/25025)。
+萨省还是好项目 - 加拿大魁北克和萨省的申请经历 [https://bbs.fcgvisa.com/t/topic/25025](https://bbs.fcgvisa.com/t/topic/25025)。

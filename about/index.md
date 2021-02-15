@@ -33,7 +33,7 @@ about: true
 
 不仅是技术移民，飞出国都用实践证明团队有能力将各类移民及出国签证融汇贯通，投资移民，团聚移民，探亲，工签（包括雇主担保移民），留学（游转学再移民）等都可以提供一流的服务，达到一流的成功率。
 
-[飞出国论坛](http://bbs.fcgvisa.com?target=_blank)，[香港福来宝德咨询网站](http://flyabroad.com.hk?target=_blank)，[飞出国微博](http://weibo.com/flyabroad?target=_blank)，都可以展现飞出国的专业知识和专业精神。
+[飞出国论坛](https://bbs.fcgvisa.com?target=_blank)，[香港福来宝德咨询网站](http://flyabroad.com.hk?target=_blank)，[飞出国微博](http://weibo.com/flyabroad?target=_blank)，都可以展现飞出国的专业知识和专业精神。
 
 [flyabroad 河北宝德因私出入境咨询服务](http://flyabroad.io?target=_blank)网站正在持续建设中，2016年 flyabroad 主要网站是 [flyabroad.hk](http://flyabroad.hk?target=_blank)，[flyabroad 北京签证工作室网站](http://www.flyabroadvisa.com?target=_blank)将只进行简单维护，不再新增内容。
 

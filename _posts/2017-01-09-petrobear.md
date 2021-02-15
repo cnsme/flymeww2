@@ -37,4 +37,4 @@ bbsid: 20940
 
 最后祝所有人最终都能有令自己满意的结果！
 
-历时三年多的190pr申请成功经历 petrobear [http://bbs.fcgvisa.com/t/190pr/20940](http://bbs.fcgvisa.com/t/190pr/20940)。
+历时三年多的190pr申请成功经历 petrobear [https://bbs.fcgvisa.com/t/190pr/20940](https://bbs.fcgvisa.com/t/190pr/20940)。
